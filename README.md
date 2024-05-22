@@ -32,6 +32,8 @@ Run Servers
 for frontend
 
 ```cd /rentify/client```
+
+A project by Dipankar Chowdhury.
 ```npm run dev```
 
 for backend
